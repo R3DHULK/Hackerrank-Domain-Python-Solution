@@ -2555,3 +2555,6 @@ print(np.linalg.det(array))
 
 ```
 
+#
+<h2><b>Found This Repo Helpful?<br> Consider To Give Me A Treat <br>👇👇👇</b></h2>
+<a href="https://www.buymeacoffee.com/r3dhulk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r3dhulk" /></a><br><br>
